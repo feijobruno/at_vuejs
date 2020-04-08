@@ -1,4 +1,4 @@
-# clinica
+# Assessment - Vuejs
 
 ## Project setup
 ```
